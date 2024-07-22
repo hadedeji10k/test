@@ -25,10 +25,10 @@ module.exports = {
   },
   resolve: {
     extensions: [".js", ".jsx"],
-  },
-  externals: {
-    react: "react",
-    "react-dom": "react-dom",
-    "@xyflow/react": "@xyflow/react",
-  },
+  }
+  // externals: {
+  //   react: "react",
+  //   "react-dom": "react-dom",
+  //   "@xyflow/react": "@xyflow/react",
+  // },
 };
